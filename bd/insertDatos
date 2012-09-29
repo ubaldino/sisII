@@ -1,0 +1,3 @@
+﻿INSERT INTO usuarios(
+            nombre, cuenta)
+    VALUES ('user1',500);
